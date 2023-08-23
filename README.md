@@ -1,6 +1,6 @@
 # My 1337 Profile (42Network)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hhaddouc" alt="hhaddouc's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hhaddouc" alt="hhaddouc's 42 Badge" /></a>
 
 ![hhaddouc's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthertG&show_icons=true&theme=gruvbox)
 
