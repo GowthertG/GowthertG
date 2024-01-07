@@ -25,6 +25,7 @@ Welcome to my coding journey!
 ## Skills
 
 <p align="center">
+  <!-- Existing skills... -->
   <img height="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"> <!-- C++ (Updated) -->
   <img height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"> <!-- C -->
   <img height="30" src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900"> <!-- TypeScript -->
@@ -39,5 +40,7 @@ Welcome to my coding journey!
   <img height="30" src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2016/10/compose-logo.jpg?resize=622%2C678&ssl=1"> <!-- Docker Compose -->
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+  <img height="30" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png">
+  <img height="30" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png">
 </p>
-
