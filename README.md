@@ -43,5 +43,4 @@ Welcome to my coding journey!
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
   <img height="30" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png">
   <img height="30" src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png">
-  <img hieght="30" src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg"
 </p>
