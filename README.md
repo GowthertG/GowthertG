@@ -14,6 +14,13 @@ Welcome to my coding journey!
   <img src="https://github-readme-stats.vercel.app/api?username=GowthertG&show_icons=true&theme=gruvbox" alt="hhaddouc's GitHub stats" />
 </p>
 
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gowther777" alt="hhaddouc's LeetCode stats" />
+</p>
+
 ## Top Languages
 
 <p align="center">
